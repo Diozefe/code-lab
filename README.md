@@ -52,6 +52,7 @@ api-agents-registration/agents.json
 | GET | [/public/agents/{agentId}][PlG3] |
 | PUT | [/public/agents/{agentId}][PlG3] |
 | DELETE | [/public/agents/{agentId}][PlG3] |
+| POST | [/auth][PlG3] |
 
 
 
@@ -59,5 +60,6 @@ api-agents-registration/agents.json
    [PlD1]: <https://localhost:3000/v1/public/agents>
    [PlG2]: <https://localhost:3000/v1/public/agents>
    [PlG3]: <https://localhost:3000/v1/public/agents/>
+   [PlG3]: <https://localhost:3000/v1/auth>
    [PlMe]: <https://github.com/joemccann/dillinger/tree/master/plugins/medium/README.md>
    [PlGa]: <https://github.com/RahulHP/dillinger/blob/master/plugins/googleanalytics/README.md>
