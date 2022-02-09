@@ -1,0 +1,59 @@
+
+[
+    {
+        "name":"Diozefe Morais",
+        "login":"diozefe",
+        "medias":{
+            "voice":{
+                "min":0,
+                "max":0,
+                "selected": 0,
+                "handleMode":"AUTO",
+                "device":"notebook",
+                "devicePassword":"01020304"
+            },
+            "email":{
+                "min":0,
+                "max":0,
+                "selected": 0
+            },
+            "chat":{
+                "min":0,
+                "max":0,
+                "selected": 0,
+                "handleMode":"AUTO"
+            }
+        },
+        "password":"123456",
+        "domain":"NVIDIA",
+        "state":"rio de janeiro"
+    },
+    {
+        "name":"Felipe Husller",
+        "login":"felipe",
+        "medias":{
+            "voice":{
+                "min":0,
+                "max":0,
+                "selected": 0,
+                "handleMode":"AUTO",
+                "device":"notebook",
+                "devicePassword":"01020304"
+            },
+            "email":{
+                "min":0,
+                "max":0,
+                "selected": 0
+            },
+            "chat":{
+                "min":0,
+                "max":0,
+                "selected": 0,
+                "handleMode":"AUTO"
+            }
+        },
+        "password":"123456",
+        "domain":"DELL",
+        "state":"são paulo"
+    }
+]
